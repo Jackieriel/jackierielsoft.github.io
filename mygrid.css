@@ -1,0 +1,13 @@
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+
+    .col-m-f {width: 33.33%;}
+   
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+
+    .col-f {width: 33.33%;}
+    
+}
